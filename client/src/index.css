@@ -1,0 +1,9 @@
+/* client/src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Add base body styling here if desired */
+body {
+  @apply bg-gray-100 text-gray-800 antialiased;
+}
