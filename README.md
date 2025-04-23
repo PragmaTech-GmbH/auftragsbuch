@@ -1,5 +1,7 @@
 # Auftragsbuch (Order Book) Simulation
 
+![App Screenshot](auftragsbuch.png) 
+
 This project simulates a basic stock exchange order book ("Auftragsbuch" in German) for a single fictional share. It visualizes the price-finding mechanism by processing randomly generated buy and sell orders and updating the display in real-time using WebSockets.
 
 The application features a Node.js/Express backend handling the simulation logic and a React frontend for visualization, styled with Tailwind CSS and including a price chart using Recharts.
